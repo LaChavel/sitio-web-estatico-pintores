@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(253, 252, 183);
+}
+
+img{
+    display:block;
+    margin:auto;
+}
+
+div.menu table{
+    margin: 0 auto;
+    text-align: left;
+    padding: 10px;
+    background-color: rgba(255, 173, 80, 0.705);
+}
+
+span.retrato img{
+    float: right;
+    padding: 10px; 
+    margin: 10px;
+}
+
+a.regresar img{
+    float: left;
+}
+
+h1{
+    font-family: Agency FB;
+}
+
+p{
+    font-family: Agency FB;
+    font-size: 130%;
+
+}

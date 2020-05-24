@@ -1,0 +1,1 @@
+alert("¿Listo para descubrir mis pintores favoritos?");
